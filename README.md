@@ -15,25 +15,11 @@ This is a Spotify clone web application that allows users to browse, play music,
 ## Tech Stack 🛠️
 
 - **Frontend**:
-  - HTML5, CSS3, JavaScript (ES6+)
-  - React.js (or Vue.js/Angular)
-  - Tailwind CSS / Bootstrap (for styling)
+  - HTML5, CSS3.
   
-- **Backend**:
-  - Node.js with Express.js
-  - RESTful API or GraphQL
-
-- **Database**:
-  - MongoDB / PostgreSQL / MySQL
-  
-- **Authentication**:
-  - JWT (JSON Web Token)
-  
-- **Music API**:
-  - [Spotify API](https://developer.spotify.com/documentation/web-api/) or other third-party APIs.
 
 ## Screenshots 📸
 
-<img src="path_to_screenshot" alt="Home Page" width="400px">
-<img src="path_to_screenshot" alt="Playlist Page" width="400px">
+<img src="P2.PNG" alt="Home Page" width="400px">
+<img src="P1.PNG" alt="Playlist Page" width="400px">
 
