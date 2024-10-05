@@ -1,8 +1,3 @@
-# Spotify cloan
-Here’s a sample `README.md` file for your Spotify clone project. This template includes general sections you can customize based on the specifics of your project.
-
----
-
 # Spotify Clone 🎵
 
 This is a Spotify clone web application that allows users to browse, play music, create playlists, and experience features similar to the Spotify platform.
